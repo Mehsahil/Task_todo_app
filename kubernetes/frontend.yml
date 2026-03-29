@@ -2,7 +2,7 @@ kind: Deployment
 apiVersion : apps/v1
 
 metadata:
-  name: frontend-deploymnet
+  name: frontend-deployment
   namespace: prod-app-ns
 
 spec:
